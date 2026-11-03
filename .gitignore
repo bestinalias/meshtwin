@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.vcd
+sim_build/
+results.xml
+.pytest_cache/
+*.parquet
+*.egg-info/
